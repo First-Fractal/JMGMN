@@ -1,3 +1,3 @@
-displayName = Journy Mode God Mod Notifier
+displayName = Journey Mode God Mod Notifier
 author = First Fractal
-version = 0.1
+version = 1.0
