@@ -1,2 +1,2 @@
-﻿# Journey Mode God Mod Notifier
-Journey Mode God Mod Notifier is a pretty simple mod that shows an icon when the player has god mode on.
+﻿# Journey Mode God Mode Notifier
+Journey Mode God Mode Notifier is a pretty simple mod that shows an icon when the player has god mode on.
