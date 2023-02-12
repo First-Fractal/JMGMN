@@ -32,7 +32,7 @@ namespace JMGMN
             Player player = Main.player[Projectile.owner];
             if (player.creativeGodMode && !player.dead)
             {
-                Projectile.position = player.position + new Vector2(-2.5f, -60);
+                Projectile.position = player.position + new Vector2(-2.5f, -JMGMNConfig.Instance.hover);
             }
             else
             {
