@@ -4,7 +4,7 @@ using System.ComponentModel;
 
 namespace JMGMN
 {
-    [Label("$Mods.BossFlamethrower.Config.Label")]
+    [Label("$Mods.JMGMN.Config.Label")]
     public class JMGMNConfig : ModConfig
     {
         public override ConfigScope Mode => ConfigScope.ServerSide;
