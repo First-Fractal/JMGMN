@@ -1,14 +1,16 @@
+
 Mods: {
 	JMGMN: {
 		Config: {
-			Label: "Config"
-			Header: {
-				GeneralOptions: "General Options"
-			}
+			Label: Config
+			Header.GeneralOptions: General Options
+
 			Hover: {
-				Label: "Hover Distance"
-				Tooltip: "How far the God Mode Notifier will be on top of the player, on the y axis."
+				Label: Hover Distance
+				Tooltip: How far the God Mode Notifier will be on top of the player, on the y axis.
 			}
 		}
+
+		Projectiles.GodModeProjectile.DisplayName: God Mode Projectile
 	}
 }
